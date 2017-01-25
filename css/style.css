@@ -223,7 +223,8 @@ span.flr {
     background-position: -42px 0px;
 }
 .ftr-grid ul li a span.gmail {
-    background-position: -84px 0px;
+    background: url(../images/Gmail-icon.png)no-repeat;
+    /*background-position: -84px 0px;*/
 }
 
 .ftr-grid ul li a span.fa:hover {
@@ -235,7 +236,7 @@ span.flr {
     opacity: 0.8;
 }
 .ftr-grid ul li a span.gmail:hover {
-    background-position: -84px 0px;
+    /*background-position: -84px 0px;*/
     opacity: 0.8;
 }
 /*--footer end here--*/
@@ -418,7 +419,8 @@ span.ab-badge:hover {
     background-position: -27px 0px;
 }
 .team-bottom ul li a.g {
-    background-position: -53px 0px;
+    background: url(../images/Gmail-icon2.png)no-repeat;
+    /*background-position: -53px 0px;*/
 }
 .team-bottom ul li a.fa:hover {
     background-position: 0px 0px;
@@ -429,7 +431,7 @@ span.ab-badge:hover {
      opacity: 0.8;
 }
 .team-bottom ul li a.g:hover {
-    background-position: -53px 0px;
+    /*background-position: -53px 0px;*/
      opacity: 0.8;
 }
 /* Better spacing on download options in getting started */
