@@ -25,17 +25,18 @@ a:hover {
 }
 /*--banner start here--*/
 .banner {
-    background: url(../images/bann3.jpg)no-repeat;
-    min-height:725px;
+    /*background: url(../images/bann3.jpg)no-repeat;*/
+    background:#EA548E;
+    min-height:25px;
     background-size: cover;
 }
 .banner-main {
-    padding-top:10em;
+    padding-top:4em;
     text-align: center;
 }
 .banner-main h1 {
     font-size:3.5em;
-    color: #fff;
+    /*color: #fff;*/
     margin-top: 1em;
     font-family: 'Oswald', sans-serif;
 }
