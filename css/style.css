@@ -26,7 +26,8 @@ a:hover {
 /*--banner start here--*/
 .banner {
     /*background: url(../images/bann3.jpg)no-repeat;*/
-    background:#EA548E;
+    /*background:#EA548E;*/
+    background:#4dc3ff;
     min-height:25px;
     background-size: cover;
 }
@@ -111,6 +112,7 @@ span.mover {
 }
 .navbar-inverse .navbar-nav > li > a {
     color:#EA548E;
+    /*color:#4dc3ff*/
     font-family: 'Oswald', sans-serif;
     line-height: 1.5em;
 }
@@ -242,16 +244,17 @@ span.flr {
 }
 /*--footer end here--*/
 .copy-right {
-    background:#EA548E;
+    /*background:#EA548E;*/
+    background: #4dc3ff;
     padding: 1.5em 0em;
     text-align: center;
 }
 .copy-rights-main p{
 	font-size:1em;
-	color:#fff;
+	/*color:#fff;*/
 }
 .copy-rights-main p a{
-	color:#fff;
+	/*color:#fff;*/
 }
 .copy-rights-main p a:hover{
 	color:#000;
